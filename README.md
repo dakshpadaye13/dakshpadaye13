@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Computer%20Engineering-0e0b08?style=for-the-badge&logo=codeforces&logoColor=c9a878&borderColor=c9a878" height="28"/>
+<img src="https://img.shields.io/badge/ComputerScience%20Engineering-0e0b08?style=for-the-badge&logo=codeforces&logoColor=c9a878&borderColor=c9a878" height="28"/>
 <img src="https://img.shields.io/badge/Xavier%20Institute-0e0b08?style=for-the-badge&logo=googlescholar&logoColor=c9a878&borderColor=c9a878" height="28"/>
 <img src="https://img.shields.io/badge/Mumbai%2C%20India-0e0b08?style=for-the-badge&logo=googlemaps&logoColor=c9a878&borderColor=c9a878" height="28"/>
 
@@ -20,7 +20,7 @@
 
 ### 🧭&nbsp; `01` About
 
-I am a Computer Engineering student driven by a simple philosophy — **learn by building.** I don't collect technologies; I integrate them into cohesive systems. My work sits at the frontier where software meets hardware, data fuels intelligence, and digital twins mirror reality.
+I am a Computer science Engineering student(cybersecurity, block chain, iot ) driven by a simple philosophy — **learn by building.** I don't collect technologies; I integrate them into cohesive systems. My work sits at the frontier where software meets hardware, data fuels intelligence, and digital twins mirror reality.
 
 > 💭 *"The most interesting problems live at the intersection of domains."*
 
